@@ -48,7 +48,7 @@ class XMLTransformationSpec extends Specification {
     script.processData(msg)
     exchange.getIn().setBody(msg.getBody())
 
-    then: 'the output message body is as expected'
+    then: 'the output message body is as expected!'
     msg.getBody(String) == this.getClass().getResource('output2.xml').text.normalize()
   }
 }
