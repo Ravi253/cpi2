@@ -22,7 +22,7 @@ function processData(message) {
     message.setProperty("newProperty", "newProperty");
 
 
-     message.setProperty("newProperty1", "newProperty1");
+     message.setProperty("newProperty1", "newProperty3");
 
 
     return message;
