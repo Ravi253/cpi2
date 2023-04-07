@@ -35,7 +35,7 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.s
 Origin-Bundle-Name: Employer Payment Summary - 2023-24
 SAP-RuntimeProfile: iflmap
 Bundle-Name: Employer Payment Summary - 2023-24
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.2
 SAP-NodeType: IFLMAP
 Origin-ModifiedDate: 1680703487526
 Import-Service: com.sap.esb.webservice.audit.log.AuditLogger 
