@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><parameters><parameter>
+      <key/>
+      <name>size</name>
+      <type>xsd:integer</type>
+      <isRequired>false</isRequired>
+      <constraint/>
+      <description/>
+      <additionalMetadata/>
+   </parameter><parameter>
+      <key/>
+      <name>Please enter key alias value</name>
+      <type>xsd:string</type>
+      <isRequired>false</isRequired>
+      <constraint/>
+      <description/>
+      <additionalMetadata/>
+   </parameter><parameter>
+      <key/>
+      <name>User_Role</name>
+      <type>xsd:string</type>
+      <isRequired>false</isRequired>
+      <constraint/>
+      <description/>
+      <additionalMetadata/>
+   </parameter><param_references><reference attribute_category="ECP" attribute_id="ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Receiver/version::1.7.2/attrId::maximumBodySize" attribute_uilabel="" param_key="size"/><reference attribute_category="ECP" attribute_id="ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Receiver/version::1.7.2/attrId::userRole" attribute_uilabel="" param_key="User_Role"/><reference attribute_category="HMRC.Receiver.Auth" attribute_id="ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.6.3/attrId::privateKeyAlias" attribute_uilabel="Private Key Alias" param_key="Please enter key alias value"/></param_references></parameters>
