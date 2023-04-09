@@ -1,4 +1,0 @@
-#Sun Apr 09 08:52:06 UTC 2023
-bodysize=45
-Source\ Endpoint=/invoic02-mapping
-Target\ Endpoint=https\://na3.releaseowl.com/roapp/cpireceiver/invoice2xml
