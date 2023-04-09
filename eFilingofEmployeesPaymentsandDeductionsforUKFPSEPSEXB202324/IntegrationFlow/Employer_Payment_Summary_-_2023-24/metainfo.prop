@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Sun Apr 09 11:31:30 UTC 2023
+description=The EPS is used to report the Apprentice Levy and reclaim statutory maternity, paternity, adoption, shared parental payments, Construction Industry Scheme(CIS) deductions and notify His Majesty's Revenue and Customs(HMRC) if no employees are paid.
+source=SAPSuccessFactorsEmployeeCentralPayroll
+target=HMRC
