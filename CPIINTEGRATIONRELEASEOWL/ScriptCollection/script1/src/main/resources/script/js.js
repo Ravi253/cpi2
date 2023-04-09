@@ -21,7 +21,7 @@ function processData(message) {
     message.setProperty("oldProperty", value + " modified");
     message.setProperty("newProperty", "newProperty");
 
-     message.setProperty("newProperty1", "newProperty3");
+     message.setProperty("newProperty1", "newProperty4");
 
 
 
