@@ -1,5 +1,0 @@
-#Store metainfo properties
-#Fri Apr 07 11:51:30 UTC 2023
-description=Summary of Taxable Benefits for End-of-Year Reporting Great Britain the United Kingdom.
-source=SAPSuccessFactorsEmployeeCentralPayroll
-target=HMRC
