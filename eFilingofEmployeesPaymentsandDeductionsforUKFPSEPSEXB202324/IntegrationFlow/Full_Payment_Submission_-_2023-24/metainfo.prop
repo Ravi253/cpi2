@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Sun Apr 09 12:48:13 UTC 2023
+description=The FPS report generates an XML file with the full payment details of Pay As You Earn (PAYE) tax, for each payroll period in the Real-Time Information (RTI), for all employees.
+source=SAPSuccessFactorsEmployeeCentralPayroll
+target=HMRC
