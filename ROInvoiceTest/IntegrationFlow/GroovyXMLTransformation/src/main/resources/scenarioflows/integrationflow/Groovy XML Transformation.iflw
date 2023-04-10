@@ -377,7 +377,7 @@
             <bpmn2:incoming>SequenceFlow_3</bpmn2:incoming>
             <bpmn2:outgoing>SequenceFlow_8</bpmn2:outgoing>
         </bpmn2:callActivity>
-        <bpmn2:callActivity id="CallActivity_12" name="OutboundModifier 12 ">
+        <bpmn2:callActivity id="CallActivity_12" name="OutboundModifier 1">
             <bpmn2:extensionElements>
                 <ifl:property>
                     <key>bodyType</key>
