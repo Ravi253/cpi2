@@ -19,7 +19,7 @@ function processData(message) {
     var properties = message.getProperties();
     value = properties.get("oldProperty");
     message.setProperty("oldProperty", value + " modified");
-    message.setProperty("newProperty", "newProperty");
+    message.setProperty("newProperty", "newProperty1");
 
      message.setProperty("newProperty1", "newProperty8");
 
