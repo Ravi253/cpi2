@@ -313,7 +313,7 @@
             <bpmn2:incoming>SequenceFlow_16</bpmn2:incoming>
             <bpmn2:messageEventDefinition/>
         </bpmn2:endEvent>
-        <bpmn2:callActivity id="CallActivity_15" name="addCustomHeaders">
+        <bpmn2:callActivity id="CallActivity_15" name="addCustomHeaders1">
             <bpmn2:extensionElements>
                 <ifl:property>
                     <key>bodyType</key>
