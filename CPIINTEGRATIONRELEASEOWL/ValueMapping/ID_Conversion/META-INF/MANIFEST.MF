@@ -7,7 +7,7 @@ Origin-Bundle-Version: 1.0.1
 Import-Package: com.sap.xi.mapping.camel.valmap
 Origin-Bundle-Name: ID_Conversion
 Bundle-Name: ID_Conversion
-Bundle-Version: 1.0.2
+Bundle-Version: 1.0.3
 Bundle-Activator: com.sap.xi.mapping.camel.valmap.ValueMappingActivato
  r
 SAP-NodeType: IFLMAP
