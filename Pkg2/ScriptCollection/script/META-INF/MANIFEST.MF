@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
-Provide-Capability: scriptcollection.script;version:Version="1.0.52"
+Provide-Capability: scriptcollection.script;version:Version="1.0.53"
 Bundle-SymbolicName: script
 Bundle-Name: script
-Bundle-Version: 1.0.52
+Bundle-Version: 1.0.53
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: script
 SAP-NodeType: IFLMAP
