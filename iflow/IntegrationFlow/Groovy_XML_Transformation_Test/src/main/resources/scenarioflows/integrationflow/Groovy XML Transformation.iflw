@@ -7,11 +7,11 @@
             </ifl:property>
             <ifl:property>
                 <key>allowedHeaderList</key>
-                <value/>
+                <value>{{Sender Endpoint}}</value>
             </ifl:property>
             <ifl:property>
                 <key>httpSessionHandling</key>
-                <value>None</value>
+                <value>onExchange</value>
             </ifl:property>
             <ifl:property>
                 <key>ServerTrace</key>

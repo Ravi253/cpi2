@@ -33,7 +33,7 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.s
 Origin-Bundle-Name: Groovy XML Transformation_Test
 SAP-RuntimeProfile: iflmap
 Bundle-Name: Groovy XML Transformation_Test
-Bundle-Version: 1.0.21
+Bundle-Version: 1.0.22
 SAP-NodeType: IFLMAP
 Origin-ModifiedDate: 1669105214796
 SAP-BundleType: IntegrationFlow
