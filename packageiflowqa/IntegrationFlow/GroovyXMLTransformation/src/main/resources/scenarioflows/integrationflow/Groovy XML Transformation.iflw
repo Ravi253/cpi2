@@ -285,7 +285,7 @@
                 <value>Required</value>
             </ifl:property>
         </bpmn2:extensionElements>
-        <bpmn2:callActivity id="CallActivity_5" name="XML transformation">
+        <bpmn2:callActivity id="CallActivity_5" name="XML transformation1">
             <bpmn2:extensionElements>
                 <ifl:property>
                     <key>scriptFunction</key>
